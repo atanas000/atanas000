@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @atanas000
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align=center>👋 Hi, I’m Atanas</h1>
+<h5 align=center>Software engineer</h5>
 
-<!---
-atanas000/atanas000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in programming, especially in C#, SQL, Python
+- 🌱 I’m currently learning C#, SQL, Python, HTML, CSS, JavaScript, PHP
+- 💞️ I’m looking to collaborate on doing some projects
+- 📫 How to reach me: linktr.ee/atnsilv
