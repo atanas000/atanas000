@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C#, C++, Java, SQL, HTML, CSS and Bootstrap**
 
-- 📫 How to reach me **info@vivasoft.tech**
+- 📫 How to reach me **atanas.iliev@vivasoft.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
