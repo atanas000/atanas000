@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanas000&label=Profile%20views&color=0e75b6&style=flat" alt="atanas000" /> </p>
 
-- 🌱 I’m currently learning **C#, C++, Java, SQL, HTML, CSS and Bootstrap**
+- 🌱 I’m currently learning **C#, C++, ASP .NET Core, SQL, HTML, CSS and Bootstrap**
 
 - 📫 How to reach me **atanas.iliev@vivasoft.tech**
 
@@ -14,11 +14,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/52045ed9d775b4ac9286e51c28b878edca6bb1750815b423c8d06c7976040ab7/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f6373686172702e737667" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++" width="40" height="40"/> </a>
-<a href="https://mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/atanas000/atanas000/assets/68632595/368b8397-b8f3-4b9a-a4a6-d65b3e648d1e" alt="mysql" width="38" height="38"/> </a> 
-<a href="https://mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gist/tracend/3798496/raw/640a549782e952bdbe31fbb41f819fa96240de42/HTML5_SF.svg" alt="html" width="40" height="40"/> </a>
-<a href="https://mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/> </a>
+<p align="left"> 
+<img src="https://logodix.com/logo/773624.png" alt="csharp" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++" height="40"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" alt="aspnetcore" height="40"/> </a>
+<img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="sql" height="38"/> </a> 
+<img src="https://raw.githubusercontent.com/gist/tracend/3798496/raw/640a549782e952bdbe31fbb41f819fa96240de42/HTML5_SF.svg" alt="html" height="40"/> </a>
+<img src="https://dev.iamvdo.me/css3.png" alt="css" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atanas000&show_icons=true&locale=en&layout=compact" alt="tonkataaa" /></p>
