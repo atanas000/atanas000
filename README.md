@@ -1,17 +1,10 @@
-<h1 align="center">Atanas Iliev</h1>
+<h1 align="center">Atanas</h1>
 <h3 align="center">Programming student from Plovdiv, Bulgaria</h3>
 <img align ="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanas000&label=Profile%20views&color=0e75b6&style=flat" alt="atanas000" /> </p>
 
 - 🌱 I’m currently learning **C#, C++, ASP .NET Core, SQL, HTML, CSS and Bootstrap**
-
-- 📫 How to reach me **atanas.iliev@vivasoft.tech**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/atanas.iliev03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atanas.iliev2003" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
